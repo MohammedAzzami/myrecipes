@@ -1,0 +1,12 @@
+# Node.js dependencies
+node_modules/
+
+# Build folders (if any)
+client/build/
+server/build/
+
+# OS files
+.DS_Store
+
+#Environment Variables
+server/src/.env
